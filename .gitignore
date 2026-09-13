@@ -1,0 +1,8 @@
+n8n-data/
+sandbox-runner/node_modules/
+sandbox/
+__pycache__/
+*.pyc
+.pytest_cache/
+test-repo/
+CMDS to run everytime.txt
